@@ -1,0 +1,40 @@
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.exe.config
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.exe
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.pdb
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csprojAssemblyReference.cache
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.LandForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.Properties.Resources.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.GenerateResource.cache
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.CoreCompileInputs.cache
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.exe
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.pdb
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.exe.config
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.exe
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\bin\Debug\SneakerSellSystem.pdb
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.LandForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.Properties.Resources.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.GenerateResource.cache
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.CoreCompileInputs.cache
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.exe
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.pdb
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.MainForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.CopyComplete
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.RegisterForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ShoeInfoForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.MyInfoForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.UserInfoForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.LotteryForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.BuyHistoryForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ExpForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ExpUpdateForm.resources
+D:\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csprojAssemblyReference.cache
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.BuyHistoryForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ExpForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ExpUpdateForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.LotteryForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.MainForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.MyInfoForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.RegisterForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.ShoeInfoForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.UserInfoForm.resources
+D:\InWHU\grade 2\大二下\高级语言程序设计\SneakerSellSystem\SneakerSellSystem\SneakerSellSystem\obj\Debug\SneakerSellSystem.csproj.CopyComplete
