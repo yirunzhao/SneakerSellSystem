@@ -38,7 +38,7 @@
             // 
             this.dgvShoes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvShoes.Location = new System.Drawing.Point(8, 10);
-            this.dgvShoes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgvShoes.Margin = new System.Windows.Forms.Padding(2);
             this.dgvShoes.Name = "dgvShoes";
             this.dgvShoes.RowTemplate.Height = 27;
             this.dgvShoes.Size = new System.Drawing.Size(553, 339);
@@ -71,8 +71,9 @@
             this.ClientSize = new System.Drawing.Size(568, 397);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.dgvShoes);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ShoeInfoForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "库存信息";
             this.Load += new System.EventHandler(this.ShoeInfoForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvShoes)).EndInit();

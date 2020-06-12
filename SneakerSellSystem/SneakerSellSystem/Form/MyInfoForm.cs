@@ -31,23 +31,18 @@ namespace SneakerSellSystem
         private void MyInfoForm_Load(object sender, EventArgs e)
         {
             //LoadUserInfo();
-            tbMid.Text = currentUser.MID.ToString();
-            tbAddr.Text = currentUser.Address;
-            tbEmail.Text = currentUser.Email;
-            tbPhone.Text = currentUser.PhoneNumber;
-            tbPwd.Text = currentUser.Password;
-            tbName.Text = currentUser.Name;
-            tbLevel.Text = currentUser.Level.ToString();
-            tbPoint.Text = currentUser.Point.ToString();
-            tbBal.Text = currentUser.Balance.ToString();
+            UpdateText();
         }
         #region 减少重复代码，传入member
         private void LoadUserInfo()
         {
             //string sql = "select * from Member where name = '" + currentUser.Name + "'";
-            string sql = "select * from Member where name = @uname";
+            //string sql = "select * from Member where name = @uname";
+            string sql = "select * from Member where mid=@uid";
+            //SqlParameter[] pms = new SqlParameter[]
+            //{new SqlParameter("@uname", SqlDbType.NVarChar, 20) { Value = currentUser.Name } };
             SqlParameter[] pms = new SqlParameter[]
-            {new SqlParameter("@uname", SqlDbType.NVarChar, 20) { Value = currentUser.Name } };
+            {new SqlParameter("@uid", SqlDbType.NVarChar, 20) { Value = currentUser.MID } };
             using (SqlDataReader reader = SqlHelper.ExecuteReader(sql, pms))
             {
                 if (reader.HasRows)
@@ -127,11 +122,17 @@ namespace SneakerSellSystem
             {
                 MessageBox.Show("氪金成功！");
             }
+            LoadUserInfo();
+            tbBal.Text = currentUser.Balance.ToString();
         }
 
-        private void btnRef_Click(object sender, EventArgs e)
+        //private void btnRef_Click(object sender, EventArgs e)
+        //{
+        //    LoadUserInfo();
+        //    UpdateText();
+        //}
+        private void UpdateText()
         {
-            LoadUserInfo();
             tbMid.Text = currentUser.MID.ToString();
             tbAddr.Text = currentUser.Address;
             tbEmail.Text = currentUser.Email;

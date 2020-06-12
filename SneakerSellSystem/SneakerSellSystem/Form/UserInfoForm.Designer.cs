@@ -45,19 +45,22 @@
             // dgvUserInfo
             // 
             this.dgvUserInfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvUserInfo.Location = new System.Drawing.Point(11, 17);
+            this.dgvUserInfo.Location = new System.Drawing.Point(8, 14);
+            this.dgvUserInfo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dgvUserInfo.Name = "dgvUserInfo";
             this.dgvUserInfo.RowTemplate.Height = 27;
-            this.dgvUserInfo.Size = new System.Drawing.Size(777, 421);
+            this.dgvUserInfo.Size = new System.Drawing.Size(583, 337);
             this.dgvUserInfo.TabIndex = 0;
             // 
             // UserInfoForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 360);
             this.Controls.Add(this.dgvUserInfo);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "UserInfoForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "所有用户信息";
             this.Load += new System.EventHandler(this.UserInfoForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvUserInfo)).EndInit();

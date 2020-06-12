@@ -37,9 +37,10 @@
             // btnUpdate
             // 
             this.btnUpdate.Font = new System.Drawing.Font("微软雅黑", 10.8F);
-            this.btnUpdate.Location = new System.Drawing.Point(16, 409);
+            this.btnUpdate.Location = new System.Drawing.Point(12, 327);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(572, 31);
+            this.btnUpdate.Size = new System.Drawing.Size(429, 25);
             this.btnUpdate.TabIndex = 1;
             this.btnUpdate.Text = "更新";
             this.btnUpdate.UseVisualStyleBackColor = true;
@@ -57,20 +58,23 @@
             // dgvExp
             // 
             this.dgvExp.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvExp.Location = new System.Drawing.Point(16, 33);
+            this.dgvExp.Location = new System.Drawing.Point(12, 26);
+            this.dgvExp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dgvExp.Name = "dgvExp";
             this.dgvExp.RowTemplate.Height = 27;
-            this.dgvExp.Size = new System.Drawing.Size(571, 356);
+            this.dgvExp.Size = new System.Drawing.Size(428, 285);
             this.dgvExp.TabIndex = 2;
             // 
             // ExpUpdateForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(607, 452);
+            this.ClientSize = new System.Drawing.Size(455, 362);
             this.Controls.Add(this.dgvExp);
             this.Controls.Add(this.btnUpdate);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "ExpUpdateForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ExpUpdateForm";
             this.Load += new System.EventHandler(this.ExpUpdateForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvExp)).EndInit();
